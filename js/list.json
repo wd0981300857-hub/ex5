@@ -1,0 +1,64 @@
+[
+	{
+		"image":"images/s1.jpg",
+		"title":"海景",
+		"material":"照片",
+		"size":"20 x 30 cm",
+		"year":"2023",
+		"type":"sea"
+	},
+
+	{
+		"image":"images/s2.jpg",
+		"title":"海景",
+		"material":"照片",
+		"size":"20 x 30 cm",
+		"year":"2023",
+		"type":"sea"
+	},
+
+	{
+		"image":"images/s3.jpg",
+		"title":"海景",
+		"material":"照片",
+		"size":"20 x 30 cm",
+		"year":"2026",
+		"type":"sea"
+	},
+
+    {
+		"image":"images/b1.jpg",
+		"title":"瓢蟲",
+		"material":"照片",
+		"size":"20 x 30 cm",
+		"year":"2024",
+		"type":"insect"
+	},
+
+    {
+		"image":"images/b2.jpg",
+		"title":"蝸牛",
+		"material":"照片",
+		"size":"20 x 30 cm",
+		"year":"2024",
+		"type":"insect"
+	},
+
+    {
+		"image":"images/f1.jpg",
+		"title":"花朵",
+		"material":"照片",
+		"s":"20 x 30 cm",
+		"year":"2025",
+		"type":"flower"
+	},
+    
+    {
+		"image":"images/f2.jpg",
+		"title":"橡果實",
+		"material":"照片",
+		"size":"20 x 30 cm",
+		"year":"2026",
+		"type":"flower"
+	}
+]
