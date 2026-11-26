@@ -45,7 +45,7 @@ function getcon(filename, type) {
       html += '</div>';
       html += '<h3>'+en.title+'</h3>';
       html += '<span>'+en.material+'</span><br>';
-      html += '<span>'+en.size+'</span><br>';
+      //html += '<span>'+en.size+'</span><br>';
       html += '<span>'+en.year+'</span><br>';
       html += '</a>';
       html += '</div>'

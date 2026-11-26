@@ -1,64 +1,73 @@
 [
 	{
-		"image":"images/s1.jpg",
-		"title":"海景",
+		"image":"images/ad5.png",
+		"title":"Flos",
 		"material":"照片",
 		"size":"20 x 30 cm",
-		"year":"2023",
-		"type":"sea"
+		"year":"2022",
+		"type":"Attachment"
 	},
 
 	{
-		"image":"images/s2.jpg",
-		"title":"海景",
+		"image":"images/ad6.png",
+		"title":"Nexus",
 		"material":"照片",
 		"size":"20 x 30 cm",
-		"year":"2023",
-		"type":"sea"
+		"year":"2022",
+		"type":"Attachment"
 	},
 
 	{
-		"image":"images/s3.jpg",
-		"title":"海景",
+		"image":"images/ad7.png",
+		"title":"Ruina",
 		"material":"照片",
 		"size":"20 x 30 cm",
-		"year":"2026",
-		"type":"sea"
+		"year":"2022",
+		"type":"Attachment"
 	},
 
     {
-		"image":"images/b1.jpg",
-		"title":"瓢蟲",
+		"image":"images/9.png",
+		"title":"Desiderium",
 		"material":"照片",
 		"size":"20 x 30 cm",
-		"year":"2024",
-		"type":"insect"
+		"year":"2021",
+		"type":"Fragilitas"
 	},
 
     {
-		"image":"images/b2.jpg",
-		"title":"蝸牛",
+		"image":"images/ad14.png",
+		"title":"Spes",
 		"material":"照片",
 		"size":"20 x 30 cm",
-		"year":"2024",
-		"type":"insect"
+		"year":"2022",
+		"type":"Fragilitas"
 	},
 
     {
-		"image":"images/f1.jpg",
-		"title":"花朵",
+		"image":"images/action20.png",
+		"title":"Somnium",
 		"material":"照片",
 		"s":"20 x 30 cm",
-		"year":"2025",
-		"type":"flower"
+		"year":"2022",
+		"type":"Fragilitas"
+	},
+
+    {
+		"image":"images/action5.png",
+		"title":"Persona",
+		"material":"照片",
+		"s":"20 x 30 cm",
+		"year":"2022",
+		"type":"Facade"
 	},
     
     {
-		"image":"images/f2.jpg",
-		"title":"橡果實",
+		"image":"images/action16.png",
+		"title":"Memento Mori",
 		"material":"照片",
 		"size":"20 x 30 cm",
-		"year":"2026",
-		"type":"flower"
+		"year":"2022",
+		"type":"Facade"
 	}
 ]
