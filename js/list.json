@@ -2,72 +2,72 @@
 	{
 		"image":"images/ad5.png",
 		"title":"Flos",
-		"material":"照片",
+		"material":"//Bloom",
 		"size":"20 x 30 cm",
-		"year":"2022",
+		"year":"2023",
 		"type":"Attachment"
 	},
 
 	{
 		"image":"images/ad6.png",
 		"title":"Nexus",
-		"material":"照片",
+		"material":"//Entanglement",
 		"size":"20 x 30 cm",
-		"year":"2022",
+		"year":"2023",
 		"type":"Attachment"
 	},
 
 	{
 		"image":"images/ad7.png",
 		"title":"Ruina",
-		"material":"照片",
+		"material":"//Fragmentation",
 		"size":"20 x 30 cm",
-		"year":"2022",
+		"year":"2023",
 		"type":"Attachment"
 	},
 
     {
 		"image":"images/9.png",
 		"title":"Desiderium",
-		"material":"照片",
+		"material":"//Within",
 		"size":"20 x 30 cm",
-		"year":"2021",
+		"year":"2022",
 		"type":"Fragilitas"
 	},
 
     {
 		"image":"images/ad14.png",
 		"title":"Spes",
-		"material":"照片",
+		"material":"//Wishes",
 		"size":"20 x 30 cm",
-		"year":"2022",
+		"year":"2023",
 		"type":"Fragilitas"
 	},
 
     {
 		"image":"images/action20.png",
 		"title":"Somnium",
-		"material":"照片",
+		"material":"//Weightless Mind",
 		"s":"20 x 30 cm",
-		"year":"2022",
+		"year":"2023",
 		"type":"Fragilitas"
 	},
 
     {
 		"image":"images/action5.png",
 		"title":"Persona",
-		"material":"照片",
+		"material":"//Self",
 		"s":"20 x 30 cm",
-		"year":"2022",
+		"year":"2023",
 		"type":"Facade"
 	},
     
     {
 		"image":"images/action16.png",
 		"title":"Memento Mori",
-		"material":"照片",
+		"material":"//Between Being and Nothingness",
 		"size":"20 x 30 cm",
-		"year":"2022",
+		"year":"2023",
 		"type":"Facade"
 	}
 ]

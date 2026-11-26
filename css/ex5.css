@@ -54,11 +54,27 @@ header{
 .logo{
     flex:1;
     text-align: center;
+    
 }
 
 .logo img{
-    width: 8%;
+    width: 100px;
+    height: auto;
     padding:10px;
+    border-radius: 50%;
+}
+
+.logo img:hover {
+    animation: spin 0.7s linear infinite;
+}
+
+@keyframes spin {
+    from {
+        transform: perspective(500px) rotateY(0deg);
+    }
+    to {
+        transform: perspective(500px) rotateY(360deg);
+    }
 }
 
 /*nav*/
